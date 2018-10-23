@@ -1,0 +1,682 @@
+    1  who
+    2  write arevuz
+    3  write Thebiggoliath
+    4  write rodgzilla
+    5  scp
+    6  ls
+    7  whoami
+    8  ls
+    9  tumux _tuto
+   10  tmux _tuto
+   11  tmux ls
+   12  tmux 
+   13  tmux -help
+   14  man
+   15  man tmux
+   16  group Thebiggoliath
+   17  groups Thebiggoliath
+   18  groups ANSEL_000
+   19  who
+   20  groups rodgzilla
+   21  tmux -S /tmp/shareds
+   22  sudo tmux -S /tmp/shareds attach -t shared
+   23  tmux ls
+   24  tmux new-session -s testA
+   25  tmux -S /tmp/shareds new -s test
+   26  tmux ls
+   27  tmux -S /tmp/shareds new -s test
+   28  sudo tmux -S /tmp/shareds new -s test
+   29  tumx ls
+   30  tmux ls
+   31  tmux -S /tmp/shareds
+   32  sudo tmux -S /tmp/shareds
+   33  sudo tmux -S /tmp/shareds ls
+   34  sudo tmux -S /tmp/banana ls
+   35  ls -l /tmp
+   36  ls -l /tmp/shareds 
+   37  ls -l /tmp/banana 
+   38  sudo tmux -S /tmp/banana a -p patate
+   39  sudo tmux -S /tmp/banana a -t patate
+   40  ls -l /tmp
+   41  sudo tmux -S /tmp/banana a -t patate
+   42  tmux -S /tmp/banana a -t patate
+   43  tmux -S /tmp/newone 
+   44  groups ANSEL_000
+   45  tmux -S /tmp/renard a -t renard
+   46  sudo tmux -S /tmp/renard a -t renard
+   47  tmux -S /tmp/renard a -t renard -r
+   48  sudo tmux -S /tmp/renard a -t renard -r
+   49  sudo tmux -S /tmp/renard a -t renard
+   50  tmux -S /tmp/renard a -t renard
+   51  ls /tmp/
+   52  tmux -S /tmp/renard a -t renard
+   53  sudo tmux -S /tmp/renard a -t renard
+   54  tmux -S /tmp/renard a -t renard
+   55  tmux -S /tmp/test1 new -s test1
+   56  chgrp tmux /tmp/test1 
+   57  sudo chgrp tmux /tmp/test1 
+   58  chmod o+w /tmp/test1 
+   59  sudo tmux -S /tmp/newone a -t one
+   60  $PATH
+   61  Get-FileHash
+   62  wget -O 
+   63  wget -O anaconda https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
+   64  ls
+   65  rm banana 
+   66  move anaconda anaconda.sh
+   67  ls
+   68  mv anaconda anaconda.sh
+   69  ls
+   70  wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
+   71  ls
+   72  bash anaconda.sh 
+   73  pip
+   74  pip3
+   75  apt-get instal
+   76  apt-get install bzip2
+   77  sudo apt-get install bzip2
+   78  bash anaconda.sh 
+   79  where
+   80  cd
+   81  ls
+   82  cd /bin/
+   83  ls
+   84  cd
+   85  cd /usr
+   86  cd local/bin
+   87  ls
+   88  cd
+   89  cd /usr/local/bin/
+   90  cd
+   91  mv
+   92  man mv
+   93  mv anaconda.sh /usr/local/bin/anaconda.sh
+   94  bash anaconda.sh 
+   95  sudo bash anaconda.sh 
+   96  cd /usr/local/bin/
+   97  cd 
+   98  sudo bash anaconda.sh 
+   99  conda
+  100  $PATH
+  101  cd /usr/local/bin/
+  102  ls
+  103  anaconda3
+  104  ls
+  105  anaconda3/
+  106  cd anaconda3/
+  107  ls
+  108  cd
+  109  ls
+  110  ls -l
+  111  ls -a
+  112  sudo bash anaconda.sh 
+  113  sudo bash anaconda.sh -u
+  114  ls
+  115  cond
+  116  conda
+  117  ls
+  118  cd anaconda3/
+  119  cd /usr/local/bin/
+  120  ls
+  121  cd anaconda3/
+  122  ls
+  123  cd /root/
+  124  man
+  125  conda
+  126  cd /usr/local/bin/
+  127  cd anaconda3/
+  128  ls
+  129  cd bin/
+  130  ls
+  131  conda
+  132  bash conda
+  133  python3
+  134  ls
+  135  python3 conda
+  136  sudo cd /root/
+  137  cd
+  138  cd /root/
+  139  sudo bash cd root
+  140  sudo bash cd /root/
+  141  cd
+  142  ls
+  143  cd /
+  144  ls -a
+  145  ls / -a
+  146  ls /root -a
+  147  ls -al
+  148  cd /usr/local/bin/
+  149  ls
+  150  ls -al
+  151  cd anaconda3/
+  152  ls -al
+  153  ls
+  154  $PATH
+  155  cd
+  156  ls
+  157  dit
+  158  dir
+  159  pwd
+  160  conda
+  161  cd /usr/local/bin/anaconda3/
+  162  ls
+  163  cd bin/
+  164  cd conda
+  165  cat conda
+  166  ls
+  167  conda
+  168  bash
+  169  ls
+  170  ls -a
+  171  cat .bashrc 
+  172  ls -a
+  173  nop export PATH=q"/home/username/miniconda/bin:$PATH"
+  174  $PATH
+  175  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  176  $PATH
+  177  conda
+  178  git
+  179  conda
+  180  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  181  conda
+  182  conda install git
+  183  sudo conda install git
+  184  sudo
+  185  ls
+  186  rm Anaconda3-5.3.0-Linux-x86_64.sh 
+  187  ls
+  188  cd src
+  189  ls
+  190  python version
+  191  python
+  192  python python_to_trello_tests.py 
+  193  conda install trello
+  194  apt-get install git
+  195  sudo apt-get install git
+  196  conda install trello
+  197  conda which pip
+  198  which pip
+  199  pip
+  200  pipaaa install trello
+  201  which pip
+  202  pip install trello
+  203  conda install trello
+  204  conda install pandas
+  205  ls
+  206  cd
+  207  ls
+  208  cd usr/local/bin
+  209  cd /usr/local/bin
+  210  ls
+  211  cd anaconda3/
+  212  ls
+  213  cd panda
+  214  cd bin/
+  215  ls
+  216  cd ..
+  217  ls
+  218  ls resources/
+  219  ls etc
+  220  ls pkgs/
+  221  cd
+  222  ls
+  223  mkdir codes
+  224  ls
+  225  mv src\ codes\src
+  226  mv src/ codes/src/
+  227  ls
+  228  cd codes/
+  229  ls
+  230  cd src/
+  231  ls
+  232  cd ..
+  233  ls
+  234  git clone git@github.com:DisaitekAI/pytorch_openai_transformer.git
+  235  ls
+  236  ls /
+  237  ls / -a
+  238  conda install sklearn
+  239  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  240  conda install sklearn
+  241  conda install tqdm
+  242  python
+  243  conda install spacy
+  244  conda install spacyPermissionError: [Errno 13] Permission denied: '/usr/local/bin/anaconda3/.condatmp'
+  245  ls
+  246  conda install tornado
+  247  conda install spacy
+  248  conda create --name serverEnv
+  249  source activate serverEnv
+  250  conda
+  251  conda install spacy
+  252  python
+  253  conda install sklearn
+  254  python
+  255  conda install scikit-learn
+  256  python
+  257  conda install ftfy
+  258  ls
+  259  cd temp_model/
+  260  ls
+  261  python testTornado_IN.py 
+  262  conda install tornado
+  263  python testTornado_IN.py 
+  264  conda install torch
+  265  conda install pytorch
+  266  source activate serverEnv
+  267  /home/ANSEL_000/.conda/envs/serverEnv
+  268  source activate /home/ANSEL_000/.conda/envs/serverEnv
+  269  ls /home/ANSEL_000/.conda/envs/serverEnv
+  270  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  271  sourcesource activate serverEnv
+  272  python
+  273  lsblk
+  274  df
+  275  df -h
+  276  $PATH
+  277  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  278  conda install pytorch
+  279  source activate serverEnv
+  280  conda install pytorch
+  281  conda install trello
+  282  pip install trello
+  283  python
+  284  pip install cython
+  285  ls
+  286  cd temp_model/
+  287  python testTornado_IN.py 
+  288  python -c
+  289  python 
+  290  python -h
+  291  python -c 1+1
+  292  python -c "1+1"
+  293  python -c "print(1+1)"
+  294  conda install spacy
+  295  python -m spacy.en.download
+  296  python -m spacy.en.download -m spacy download en
+  297  ython -m spacy.en.download -m spacy download en
+  298  gjcfhjkpython -m spacy.en.download -m spacy download en
+  299  python -m spacy download en
+  300  python testTornado_IN.py 
+  301  conda
+  302  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  303  source activate serverEnv
+  304  ls
+  305  cd temp_model/
+  306  ls
+  307  python testTornado_IN.py 
+  308  ls
+  309  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  310  source activate serverEnv
+  311  conda install python-dateutil
+  312  conda install beautifulsoup4
+  313  conda install oauth2client
+  314  conda install google-api-python-client
+  315  pip install google-api-python-client
+  316  pip install oauth2client
+  317  df
+  318  conda create --name serverEnvRegex2017 --clone serverEnv
+  319  conda activate serverE
+  320  conda activate serverEnvRegex2017
+  321  pip install regex==2017.4.5
+  322  pip install --upgrade regex==2017.4.5
+  323  pip install --upgrade pip
+  324  pip
+  325  pip install 
+  326  pip install --upgrade spacy
+  327  pip install --upgrade regex
+  328  pip install --upgrade spacy
+  329  ls
+  330  cd mail
+  331  ls
+  332  python quickstart.py 
+  333  conda activate serverEnv
+  334  python quickstart.py 
+  335  cd ..
+  336  ls
+  337  cd codes/
+  338  ls
+  339  cd src/
+  340  python python_to_trello_tests.py 
+  341  pip install urllib
+  342  pip install urllib2
+  343  python
+  344  python python_to_trello_tests.py 
+  345  python
+  346  pip install urllib
+  347  conda install urllib
+  348  conda install urllib2
+  349  python
+  350  python trello_rest.py 
+  351  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  352  source activate serverEnv
+  353  ls
+  354  cd temp_model/
+  355  ls
+  356  python testTornado_IN.py 
+  357  ls
+  358  cd temp_model/
+  359  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  360  source activate serverEnv
+  361  python testTornado_IN.py 
+  362  python
+  363  python testTornado_IN.py 
+  364  cat api_mail/token.json 
+  365  python
+  366  cat api_mail/token.json 
+  367  python
+  368  cat api_mail/token.json 
+  369  python testTornado_IN.py 
+  370  python
+  371  python testTornado_IN.py 
+  372  ls
+  373  ls mail
+  374  cd mail
+  375  python quickstart.py 
+  376  pip install google-api-python-client
+  377  conda
+  378  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  379  source activate serverEnv
+  380  pip install google-api-python-client
+  381  python
+  382  python quickstart.py 
+  383  ls .
+  384  ls /
+  385  ls /home/
+  386  ls /home/ANSEL_000/
+  387  ls /home/ANSEL_000/temp_model/
+  388  ls /home/gchatel/
+  389  ls /home/rodgzilla/
+  390  ls /home/arevuz/
+  391  ls /home/Thebiggoliath/
+  392  ls /home/anselme.revuz/
+  393  ls /home/ANSEL_000/
+  394  sudo /home/arevuz/
+  395  sudo ls /home/arevuz/
+  396  sudo ls /home/ANSEL_000/
+  397  sudo ls /home/ANSEL_000/
+  398  sudo ls /home/ANSEL_000/ -a
+  399  ls /home/Thebiggoliath/ -a
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd mail
+  404  ls
+  405  conda
+  406  ls
+  407  rm __pycache__/
+  408  rm -R __pycache__/
+  409  ls
+  410  python quickstart.py 
+  411  ls
+  412  python
+  413  ls
+  414  rm -R __pycache__/
+  415  cd ..
+  416  ls
+  417  ls temp_model/
+  418  cd mail/
+  419  ls /home/ANSEL_000/temp_model/
+  420  mv * /home/ANSEL_000/temp_model/
+  421  ls /home/ANSEL_000/temp_model/
+  422  ls
+  423  cd ..
+  424  ls
+  425  cd codes/
+  426  ls
+  427  cd src/
+  428  ls
+  429  rm python_to_trello_tests.py 
+  430  cd ..
+  431  ls
+  432  rm -R
+  433  rm -R codes/
+  434  ls
+  435  cd src
+  436  ls
+  437  eee mv * /home/ANSEL_000/temp_model/
+  438  rm -R __pycache__/
+  439  ls
+  440  mv * /home/ANSEL_000/temp_model/
+  441  cd ..
+  442  ls
+  443  cd temp_model/
+  444  ls
+  445  mkdir api_mail
+  446  ls
+  447  cd..
+  448  cd
+  449  ls
+  450  rm simple_transformer_inference.py 
+  451  rm mail/
+  452  mv testTornado_IN.py temp_model/
+  453  ls
+  454  cd temp_model/
+  455  ls
+  456  cd ..
+  457  mv fonctionApi.py temp_model/
+  458  cd temp_model/
+  459  ls
+  460  mv token.json api_mail/
+  461  ls
+  462  cd ..
+  463  ls
+  464  mv testTornado_IN.py temp_model/
+  465  rm -R mail
+  466  rm -R src
+  467  ls
+  468  mv testTornado_IN.py temp_model/
+  469  ls
+  470  mv testTornado_IN.py temp_model/
+  471  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  472  source activate serverEnv
+  473  cd temp
+  474  cd temp_model/
+  475  python testTornado_IN.py 
+  476  ls
+  477  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  478  source activate serverEnv
+  479  cd tem
+  480  cd temp_model/
+  481  python testTornado_IN.py 
+  482  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  483  source activate serverEnv
+  484  cd temp_model/
+  485  python testTornado_IN.py 
+  486  ps
+  487  ps -a
+  488  htop
+  489  Htop
+  490  apt-get install Htop
+  491  sudo apt-get install Htop
+  492  Htop
+  493  top
+  494  kill 2453
+  495  python testTornado_IN.py 
+  496  cd temp_model/
+  497  python testTornado_IN.py 
+  498  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  499  source activate serverEnv
+  500  python testTornado_IN.py 
+  501  cat testTornado_IN.py 
+  502  python testTornado_IN.py 
+  503  ls
+  504  python testTornado_IN.py 
+  505  python
+  506  python testTornado_IN.py 
+  507  cat testTornado_IN.py 
+  508  conda
+  509  mv testTornado_IN.py temp_model/
+  510  mv testTornado_IN.py temp_model/
+  511  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  512  source activate serverEnv
+  513  cd temp_model/
+  514  python testTornado_IN.py 
+  515  kill 2634
+  516  python testTornado_IN.py 
+  517  pytohn
+  518  python
+  519  top
+  520  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  521  source activate serverEnv
+  522  conda
+  523  conda install postgresql
+  524  conda install psycopg2
+  525  ls
+  526  mkdir DB
+  527  ls
+  528  cd
+  529  pg_ctl init -D ~/DB
+  530  pg_ctl -D /home/ANSEL_000/DB -l logfile start
+  531  createdb serverDB
+  532  cd temp_model/
+  533  python testTornado_IN.py 
+  534  cd ..
+  535  cd mainDB/
+  536  python startDB.py 
+  537  cd ..
+  538  cd temp_model/
+  539  python testTornado_IN.py 
+  540  mkdir dbpack
+  541  cd ..
+  542  cd mainDB/
+  543  ls
+  544  cp communicate_db.py ttt.py
+  545  ls
+  546  sdfcp communicate_db.py /home/a ttt.py
+  547  sdfcp communicate_db.py ../ttt.py
+  548  cd ..
+  549  ls
+  550  cd mainDB/
+  551  cp communicate_db.py ../ttt.py
+  552  cd ..
+  553  ls
+  554  mv ttt.py temp_model/dbpack/
+  555  ls
+  556  cd temp_model/
+  557  python testTornado_IN.py 
+  558  cd dbpack/
+  559  ls
+  560  mv ttt.py communicate_db.py
+  561  ls
+  562  cd ..
+  563  python testTornado_IN.py 
+  564  ls
+  565  mv testTornado_IN.py temp_model/
+  566  ls
+  567  cd mainDB/
+  568  cd ..
+  569  rm -R mainDB/
+  570  ls
+  571  cd mainDB/
+  572  python startDB.py 
+  573  cd ..
+  574  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  575  source activate serverEnv
+  576  ls
+  577  mv testTornado_IN.py temp_model/
+  578  cd temp_model/
+  579  cd dbpack/
+  580  ls
+  581  python
+  582  ls
+  583  cd DB/
+  584  ls
+  585  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  586  source activate serverEnv
+  587  ls
+  588  cd temp_model/
+  589  ls
+  590  python testTornado_IN.py 
+  591  pg_ctl init -D ~/DB
+  592  pg_ctl -D /home/ANSEL_000/DB -l logfile start
+  593  python testTornado_IN.py 
+  594  mv testTornado_IN.py temp_model/
+  595  python
+  596  cd temp_model/
+  597  cd dbpack/
+  598  python
+  599  ls
+  600  python
+  601  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  602  source activate serverEnv
+  603  python
+  604  cd ..
+  605  python
+  606  mv testTornado_IN.py temp_model/
+  607  ls
+  608  ls temp_model/dbpack/
+  609  mv communicate_db.py temp_model/dbpack/
+  610  python
+  611  mv testTornado_IN.py temp_model/
+  612  ls
+  613  ls mainDB/
+  614  python mainDB/startDB.py 
+  615  python
+  616  python mainDB/startDB.py 
+  617  python
+  618  python mainDB/startDB.py 
+  619  python
+  620  python mainDB/startDB.py 
+  621  mv communicate_db.py temp_model/dbpack/
+  622  mv testTornado_IN.py temp_model/
+  623  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  624  source activate serverEnv
+  625  python mainDB/startDB.py 
+  626  cd temp_model/
+  627  python testTornado_IN.py 
+  628  pg_ctl -D /home/ANSEL_000/DB -l logfile start
+  629  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  630  source activate serverEnv
+  631  pg_ctl -D /home/ANSEL_000/DB -l logfile start
+  632  python
+  633  mv testTornado_IN.py temp_model/
+  634  mv communicate_db.py temp_model/dbpack/
+  635  mv testTornado_IN.py temp_model/
+  636  mv communicate_db.py temp_model/dbpack/
+  637  ls
+  638  cd temp_model/
+  639  ls
+  640  ls api
+  641  ls apis
+  642  ls api_mail/
+  643  rm -R api_mail/
+  644  ls
+  645  mkdir apis
+  646  cd
+  647  mv outlook_api.py temp_model/apis/
+  648  ls
+  649  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  650  source activate serverEnv
+  651  pg_ctl -D /home/ANSEL_000/DB -l logfile start
+  652  cd temp_model/
+  653  python testTornado_IN.py 
+  654  export PATH="/usr/local/bin/anaconda3/bin:$PATH"
+  655  source activate serverEnv
+  656  cd temp_model/
+  657  cd dbpack/
+  658  ls
+  659  python
+  660  cd ..
+  661  ls
+  662  python
+  663  ls apis/
+  664  python
+  665  cd ..
+  666  mv communicate_db.py temp_model/dbpack/
+  667  python
+  668  cd temp_model/
+  669  python
+  670  cat apis/outlook_api.py 
+  671  cd ..
+  672  ls
+  673  mv outlook_api.py temp_model/apis/
+  674  python
+  675  mv testTornado_IN.py temp_model/
+  676  ls
+  677  mv testTornado_IN.py temp_model/
+  678  ls
+  679  mv testTornado_IN.py temp_model/
+  680  cd temp_model/
+  681  python
+  682  history > history_for_print.txt
